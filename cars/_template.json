@@ -1,0 +1,8 @@
+{
+    "about":"template subject to change",
+    "templateStatsu":"alpha",
+    "templateVersion":0.01,
+    "carName":"Car Template",
+    "castNumber":"Car cast number found on package",
+    "diceModifier":"If the base movement is 1D4 and car has a modifier of 2, then they roll a 1D6 to move"
+}
