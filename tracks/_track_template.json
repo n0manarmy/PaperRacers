@@ -1,0 +1,9 @@
+{
+    "trackID":"UUID",
+    "trackVersion":"track version",
+    "trackSupportedRaceTypes": [
+        "race track race types grandPrix, dualRace, pinkSlip"
+    ],
+    "trackName":"track name",
+    "trackImage":"image file"
+}
