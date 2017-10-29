@@ -1,0 +1,10 @@
+{
+    "trackID":"UUID",
+    "trackVersion":"0.1",
+    "trackSupportedRaceTypes": [
+        "dualRace",
+        "pinkSlip"
+    ],
+    "trackName":"basic 3 turn track",
+    "trackImage":"basic_3_turn_track.svg"
+}
